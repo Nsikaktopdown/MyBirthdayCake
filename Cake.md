@@ -9,4 +9,4 @@
 
 # About Celebrant
  
- Nsikak Thompson is an coded Android Developer , whose believes in changing Africa with local talent and skills.
+ Nsikak Thompson is a coded Android Developer , whose believes in changing Africa with local talent and skills.
